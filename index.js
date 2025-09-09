@@ -4,6 +4,5 @@ const buttonImg = document.querySelector('.show-links img')
 
 shareButton.addEventListener('click', () => {
   shareLinks.classList.toggle('sr-only')
-  // buttonImg.classList.toggle('brighten')
   shareButton.classList.toggle('show-links-button-active')
 })

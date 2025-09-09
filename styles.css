@@ -143,3 +143,16 @@ cite {
     right: 7.325rem;
   }
 }
+@media (min-width: 60rem) {
+  article {
+    max-width: 46rem;
+    max-height: 19rem;
+  }
+  .article-hero {
+    width: 20rem;
+    height: 19rem;
+  }
+  .article-content {
+    width: 22rem;
+  }
+}
