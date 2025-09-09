@@ -134,6 +134,9 @@ cite {
     right: -4.75rem;
     border-radius: 1rem;
   }
+  .share-links img {
+    width: 175%;
+  }
   .pointer {
     border-top: 0.75rem solid var(--very-dark-grayish-blue);
     border-left: 0.75rem solid transparent;
@@ -154,5 +157,9 @@ cite {
   }
   .article-content {
     width: 22rem;
+  }
+  .share-links-wrapper {
+    bottom: 4.5rem;
+    right: -2.875rem;
   }
 }
